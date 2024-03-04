@@ -1,0 +1,385 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text&family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Lobster&family=Noto+Serif+KR&family=Space+Grotesk:wght@300..700&display=swap');
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        /* Define styles for sections */
+        .section {
+            text-align: center;
+            background: linear-gradient(72deg, #432093 0%, #90DAFD 100%);
+        }
+
+        /*SECTION1 시작*/
+        .section .section1 .logo { 
+            position: absolute;
+            top: 50px;
+            left: 50px;
+        } /*SECTION1 나이키 로고*/
+
+        /*SECTION1 나이키 신발사진*/
+        .section .section1 .shoe1 {
+            position: absolute;
+            top: 200px;
+            left: 500px;
+            width: 745px;
+            height: 548px;
+        }
+
+        .section .section1 p {
+            position: absolute;
+            top: 50px;
+            left: 500px;
+            font-size: 16px;
+            color: #fff;
+            font-family: "Space Grotesk", sans-serif;
+        }
+
+        .section .section1 h1 {
+            position: absolute;
+            top: 400px;
+            left: 550px;
+            font-family:"Space Grotesk", sans-serif;
+            font-size: 100px;
+            font-style: normal;
+            font-weight: 600;
+            line-height: normal;
+        }
+
+        .section .section1 span {
+         color: transparent;
+         -webkit-text-stroke:2px #000;
+        }
+
+        .section .section1 h2 {
+            position: absolute;
+            top: 750px;
+            left: 500px;
+            font-size: 32px;
+            color: #fff;
+            font-weight: 400;
+            font-family:"Space Grotesk", sans-serif;
+        }
+
+        /*SECTION1 별점*/
+        .section .section1 .raiting {
+            position: absolute;
+            top: 820px;
+            left: 500px;
+        }
+
+        .section .section1 a {
+            position: absolute;
+            top: 850px;
+            left: 500px;
+            text-align: start;
+            color: #fff;
+            font-weight: 400;
+            font-family:"Space Grotesk", sans-serif;
+        }
+
+        .section .section1 h3 {
+            position: absolute;
+            top: 830px;
+            left: 1300px;
+            color: #fff;
+            font-weight: 400;
+            font-size: 32px;
+            font-family:"Space Grotesk", sans-serif;
+            text-decoration: underline;
+        }
+
+        /*SECTION1 별점*/
+        .section .section1 .sns { 
+            position: absolute;
+            top: 50px;
+            left: 1300px;
+        } 
+
+        .section .section1 .cart {
+            position: absolute;
+            top: 50px;
+            left: 1700px;
+        }
+        /*SECTION1 끝*/
+
+        /*SECTION2 시작*/
+        .section .section2 .logo2 {
+            position: absolute;
+            top: 1000px;
+            left: 50px;
+        }/*SECTION2 나이키 로고*/
+
+        /*SECTION2 나이키 신발*/
+        .section .section2 .shoe2 {
+            position: absolute;
+            top: 1150px;
+            left: 500px;
+        }
+
+        .section .section2 p { 
+            position: absolute;
+            top: 1020px;
+            left: 500px;
+            font-size: 16px;
+            font-weight: 500;
+            color: #fff;
+            font-family: "Space Grotesk", sans-serif;
+        }
+
+        .section .section2 h1 {
+            position: absolute;
+            top: 1350px;
+            left: 550px;
+            font-family:"Space Grotesk", sans-serif;
+            font-size: 100px;
+            font-style: normal;
+            font-weight: 600;
+            line-height: normal;
+        }
+
+        .section .section2 span {
+         color: transparent;
+         -webkit-text-stroke:2px #000;
+        }
+
+        .section .section2 h2 {
+            position: absolute;
+            top: 1750px;
+            left: 500px;
+            font-size: 32px;
+            color: #fff;
+            font-weight: 400;
+            font-family:"Space Grotesk", sans-serif;
+        }
+
+        
+        /*SECTION2 별점*/
+        .section .section2 .raiting2 {
+            position: absolute;
+            top: 1800px;
+            left: 500px;
+        }
+
+        .section .section2 a {
+            position: absolute;
+            top: 1830px;
+            left: 500px;
+            text-align: start;
+            color: #fff;
+            font-weight: 400;
+            font-family:"Space Grotesk", sans-serif;
+        }
+
+        .section .section2 h3 {
+            position: absolute;
+            top: 1800px;
+            left: 1300px;
+            color: #fff;
+            font-weight: 400;
+            font-size: 32px;
+            font-family:"Space Grotesk", sans-serif;
+            text-decoration: underline;
+        }
+
+        
+        /*SECTION2 sns로고*/
+        .section .section2 .sns2 {
+            position: absolute;
+            top: 1020px;
+            left: 1300px;
+        }
+
+        .section .section2 .cart2 {
+            position: absolute;
+            top: 1020px;
+            left: 1700px;
+        }
+        /*SECTION2 끝*/
+
+        
+        /*SECTION3 시작*/
+
+        /*SECTION3 나이키 로고*/
+        .section .section3 .logo3 {
+            position: absolute;
+            top: 1970px;
+            left: 50px;
+        }
+
+        /*SECTION3 나이키 신발*/
+        .section .section3 .shoe3 {
+            position: absolute;
+            top: 2100px;
+            left: 500px;
+        }
+
+        .section .section3 p {
+            position: absolute;
+            top: 1980px;
+            left: 500px;
+            font-size: 16px;
+            font-weight: 500;
+            color: #fff;
+            font-family: "Space Grotesk", sans-serif;
+        }
+
+        .section .section3 h1 {
+            position: absolute;
+            top: 2330px;
+            left: 550px;
+            font-family:"Space Grotesk", sans-serif;
+            font-size: 100px;
+            font-style: normal;
+            font-weight: 600;
+            color: #fff;
+            line-height: normal;
+        }
+
+        .section .section3 span {
+         color: transparent;
+         -webkit-text-stroke:2px #fff;
+        }
+
+        .section .section3 h2 {
+            position: absolute;
+            top: 2670px;
+            left: 500px;
+            font-size: 32px;
+            color: #fff;
+            font-weight: 400;
+            font-family:"Space Grotesk", sans-serif;
+        }
+
+        /*SECTION3 별점*/
+        .section .section3 .raiting3 {
+            position: absolute;
+            top: 2720px;
+            left: 500px;
+        }
+
+        .section .section3 a {
+            position: absolute;
+            top: 2750px;
+            left: 500px;
+            text-align: start;
+            color: #fff;
+            font-weight: 400;
+            font-family:"Space Grotesk", sans-serif;
+        }
+
+        .section .section3 h3 {
+            position: absolute;
+            top: 2730px;
+            left: 1300px;
+            color: #fff;
+            font-weight: 400;
+            font-size: 32px;
+            font-family:"Space Grotesk", sans-serif;
+            text-decoration: underline;
+        }
+
+        /*SECTION2 sns로고*/
+        .section .section3 .sns3 {
+            position: absolute;
+            top: 1980px;
+            left: 1300px;
+        }
+
+        .section .section3 .cart3 {
+            position: absolute;
+            top: 1980px;
+            left: 1700px;
+        }
+        /*SECTION3 끝*/
+
+        /*SECTION4 시작*/
+        .section .section4 .logo4 {
+            position: absolute;
+            top: 2940px;
+            left: 50px;
+        }
+
+        .section .section4 .shoe4 {
+            position: absolute;
+            top: 3030px;
+            left: 530px;
+        }
+
+        .section .section4 p {
+            position: absolute;
+            top: 2930px;
+            left: 500px;
+            font-size: 16px;
+            font-weight: 500;
+            color: #fff;
+            font-family: "Space Grotesk", sans-serif;
+        }
+
+        .section .section4 h1 {
+            position: absolute;
+            top: 3200px;
+            left: 440px;
+            font-family:"Space Grotesk", sans-serif;
+            font-size: 100px;
+            font-style: normal;
+            font-weight: 600;
+            color: #fff;
+            line-height: normal;
+        }
+
+        .section .section4 span {
+         color: transparent;
+         -webkit-text-stroke:2px #fff;
+        }
+
+        .section .section4 h2 {
+            position: absolute;
+            top: 3650px;
+            left: 450px;
+            font-size: 32px;
+            color: #fff;
+            font-weight: 400;
+            font-family:"Space Grotesk", sans-serif;
+        }
+
+        .section .section4 .raiting4 {
+            position: absolute;
+            top: 3695px;
+            left: 450px;
+        }
+
+        .section .section4 a {
+            position: absolute;
+            top: 3725px;
+            left: 450px;
+            text-align: start;
+            color: #fff;
+            font-weight: 400;
+            font-family:"Space Grotesk", sans-serif;
+        }
+
+        .section .section4 h3{
+            position: absolute;
+            top: 3720px;
+            left: 1300px;
+            color: #fff;
+            font-weight: 400;
+            font-size: 32px;
+            font-family:"Space Grotesk", sans-serif;
+            text-decoration: underline;
+        }
+
+        .section .section4 .sns4 {
+            position: absolute;
+            top: 2930px;
+            left: 1300px;
+        }
+
+        .section .section4 .cart4 {
+            position: absolute;
+            top: 2930px;
+            left: 1700px;
+        }
+        /*SECTION4 끝*/
